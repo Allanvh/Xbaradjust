@@ -1,11 +1,8 @@
 #' Nossa Funcao
-
-
-
-
-
-
-
+#'
+#' Essa é a descricao
+#'
+#'@export
 
 
 library(cubature)
